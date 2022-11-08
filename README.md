@@ -1,13 +1,26 @@
-### Welcome! 👋
-
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acnx&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acnx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">
+  Welcome! 👋
+</h1>
 
 
-GitHub Activity Graph
+## Coding Time
+
+<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
+
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=acnx&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axnx&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+</div>
+
+##  Github Profile Trophy
+<img src="https://github-profile-trophy.vercel.app/?username=axnx&column=8"/>
+
+
+
+
+
+## GitHub Activity Graph
 <table align="center">
   <tr>
     <td colspan="2">
@@ -15,4 +28,4 @@ GitHub Activity Graph
     </td>
   </tr>
 </table>
--->
+
